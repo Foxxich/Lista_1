@@ -1,0 +1,404 @@
+src/main/java/org/example/ChangeableTableData.java:2:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/example/ChangeableTableData.java:2:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/example/ChangeableTableData.java:2:	CommentRequired: Class comments are required
+src/main/java/org/example/ChangeableTableData.java:2:	CommentRequired: Class comments are required
+src/main/java/org/example/ChangeableTableData.java:2:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/org/example/ChangeableTableData.java:2:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/org/example/ChangeableTableData.java:5:	MethodArgumentCouldBeFinal: Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/org/example/ChangeableTableData.java:5:	MethodArgumentCouldBeFinal: Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/org/example/ChangeableTableData.java:5:	MethodArgumentCouldBeFinal: Parameter 'rowIndex' is not assigned and could be declared final
+src/main/java/org/example/ChangeableTableData.java:5:	MethodArgumentCouldBeFinal: Parameter 'rowIndex' is not assigned and could be declared final
+src/main/java/org/example/FileOperations.java:2:	UnusedImports: Avoid unused imports such as 'javax.swing.filechooser.FileNameExtensionFilter'
+src/main/java/org/example/FileOperations.java:2:	UnusedImports: Avoid unused imports such as 'javax.swing.filechooser.FileNameExtensionFilter'
+src/main/java/org/example/FileOperations.java:9:	UnusedImports: Avoid unused imports such as 'java.nio.file.Paths'
+src/main/java/org/example/FileOperations.java:9:	UnusedImports: Avoid unused imports such as 'java.nio.file.Paths'
+src/main/java/org/example/FileOperations.java:11:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/example/FileOperations.java:11:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/example/FileOperations.java:11:	CommentRequired: Class comments are required
+src/main/java/org/example/FileOperations.java:11:	CommentRequired: Class comments are required
+src/main/java/org/example/FileOperations.java:14:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/FileOperations.java:14:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/FileOperations.java:14:	MethodArgumentCouldBeFinal: Parameter 'filePath' is not assigned and could be declared final
+src/main/java/org/example/FileOperations.java:14:	MethodArgumentCouldBeFinal: Parameter 'filePath' is not assigned and could be declared final
+src/main/java/org/example/FileOperations.java:15:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/main/java/org/example/FileOperations.java:15:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/main/java/org/example/FileOperations.java:20:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/org/example/FileOperations.java:20:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/org/example/FileOperations.java:24:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/FileOperations.java:24:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/FileOperations.java:24:	MethodArgumentCouldBeFinal: Parameter 'filePath' is not assigned and could be declared final
+src/main/java/org/example/FileOperations.java:24:	MethodArgumentCouldBeFinal: Parameter 'filePath' is not assigned and could be declared final
+src/main/java/org/example/FileOperations.java:24:	MethodArgumentCouldBeFinal: Parameter 'tableData' is not assigned and could be declared final
+src/main/java/org/example/FileOperations.java:24:	MethodArgumentCouldBeFinal: Parameter 'tableData' is not assigned and could be declared final
+src/main/java/org/example/FileOperations.java:25:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/main/java/org/example/FileOperations.java:25:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/main/java/org/example/FileOperations.java:31:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/org/example/FileOperations.java:31:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/org/example/MenuFrame.java:2:	DuplicateImports: Avoid duplicate imports such as 'javax.swing.JFileChooser'
+src/main/java/org/example/MenuFrame.java:2:	DuplicateImports: Avoid duplicate imports such as 'javax.swing.JFileChooser'
+src/main/java/org/example/MenuFrame.java:2:	UnusedImports: Avoid unused imports such as 'javax.swing.JFileChooser'
+src/main/java/org/example/MenuFrame.java:2:	UnusedImports: Avoid unused imports such as 'javax.swing.JFileChooser'
+src/main/java/org/example/MenuFrame.java:3:	UnusedImports: Avoid unused imports such as 'java.awt.event.ActionEvent'
+src/main/java/org/example/MenuFrame.java:3:	UnusedImports: Avoid unused imports such as 'java.awt.event.ActionEvent'
+src/main/java/org/example/MenuFrame.java:4:	UnusedImports: Avoid unused imports such as 'java.awt.event.ActionListener'
+src/main/java/org/example/MenuFrame.java:4:	UnusedImports: Avoid unused imports such as 'java.awt.event.ActionListener'
+src/main/java/org/example/MenuFrame.java:5:	UnusedImports: Avoid unused imports such as 'java.io.FileInputStream'
+src/main/java/org/example/MenuFrame.java:5:	UnusedImports: Avoid unused imports such as 'java.io.FileInputStream'
+src/main/java/org/example/MenuFrame.java:6:	UnusedImports: Avoid unused imports such as 'java.io.FileOutputStream'
+src/main/java/org/example/MenuFrame.java:6:	UnusedImports: Avoid unused imports such as 'java.io.FileOutputStream'
+src/main/java/org/example/MenuFrame.java:7:	UnusedImports: Avoid unused imports such as 'java.io.IOException'
+src/main/java/org/example/MenuFrame.java:7:	UnusedImports: Avoid unused imports such as 'java.io.IOException'
+src/main/java/org/example/MenuFrame.java:8:	UnusedImports: Avoid unused imports such as 'java.io.ObjectInputStream'
+src/main/java/org/example/MenuFrame.java:8:	UnusedImports: Avoid unused imports such as 'java.io.ObjectInputStream'
+src/main/java/org/example/MenuFrame.java:9:	UnusedImports: Avoid unused imports such as 'java.io.ObjectOutputStream'
+src/main/java/org/example/MenuFrame.java:9:	UnusedImports: Avoid unused imports such as 'java.io.ObjectOutputStream'
+src/main/java/org/example/MenuFrame.java:10:	UnusedImports: Avoid unused imports such as 'java.nio.file.Paths'
+src/main/java/org/example/MenuFrame.java:10:	UnusedImports: Avoid unused imports such as 'java.nio.file.Paths'
+src/main/java/org/example/MenuFrame.java:11:	UnusedImports: Avoid unused imports such as 'java.util.ArrayList'
+src/main/java/org/example/MenuFrame.java:11:	UnusedImports: Avoid unused imports such as 'java.util.ArrayList'
+src/main/java/org/example/MenuFrame.java:14:	UnusedImports: Avoid unused imports such as 'javax.swing.filechooser.FileNameExtensionFilter'
+src/main/java/org/example/MenuFrame.java:14:	UnusedImports: Avoid unused imports such as 'javax.swing.filechooser.FileNameExtensionFilter'
+src/main/java/org/example/MenuFrame.java:16:	CommentRequired: Class comments are required
+src/main/java/org/example/MenuFrame.java:16:	CommentRequired: Class comments are required
+src/main/java/org/example/MenuFrame.java:20:	CommentRequired: Field comments are required
+src/main/java/org/example/MenuFrame.java:20:	CommentRequired: Field comments are required
+src/main/java/org/example/MenuFrame.java:20:	UnusedPrivateField: Avoid unused private fields such as 'menu'.
+src/main/java/org/example/MenuFrame.java:20:	UnusedPrivateField: Avoid unused private fields such as 'menu'.
+src/main/java/org/example/MenuFrame.java:21:	CommentRequired: Field comments are required
+src/main/java/org/example/MenuFrame.java:21:	CommentRequired: Field comments are required
+src/main/java/org/example/MenuFrame.java:21:	UnusedPrivateField: Avoid unused private fields such as 'menuItem'.
+src/main/java/org/example/MenuFrame.java:21:	UnusedPrivateField: Avoid unused private fields such as 'menuItem'.
+src/main/java/org/example/MenuFrame.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MenuFrame.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MenuFrame.java:22:	CommentRequired: Field comments are required
+src/main/java/org/example/MenuFrame.java:22:	CommentRequired: Field comments are required
+src/main/java/org/example/MenuFrame.java:23:	CommentRequired: Field comments are required
+src/main/java/org/example/MenuFrame.java:23:	CommentRequired: Field comments are required
+src/main/java/org/example/MenuFrame.java:23:	UnusedPrivateField: Avoid unused private fields such as 'rbMenuItem'.
+src/main/java/org/example/MenuFrame.java:23:	UnusedPrivateField: Avoid unused private fields such as 'rbMenuItem'.
+src/main/java/org/example/MenuFrame.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MenuFrame.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MenuFrame.java:24:	CommentRequired: Field comments are required
+src/main/java/org/example/MenuFrame.java:24:	CommentRequired: Field comments are required
+src/main/java/org/example/MenuFrame.java:24:	ImmutableField: Private field 'panel' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MenuFrame.java:24:	ImmutableField: Private field 'panel' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MenuFrame.java:27:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/MenuFrame.java:27:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/MyPanel.java:10:	CommentRequired: Class comments are required
+src/main/java/org/example/MyPanel.java:10:	CommentRequired: Class comments are required
+src/main/java/org/example/MyPanel.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:14:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:14:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:15:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:15:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:15:	ImmutableField: Private field 'fileOperations' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:15:	ImmutableField: Private field 'fileOperations' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:16:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:16:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:16:	ImmutableField: Private field 'rows' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:16:	ImmutableField: Private field 'rows' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:16:	UnusedPrivateField: Avoid unused private fields such as 'rows'.
+src/main/java/org/example/MyPanel.java:16:	UnusedPrivateField: Avoid unused private fields such as 'rows'.
+src/main/java/org/example/MyPanel.java:18:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:18:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:18:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/MyPanel.java:18:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/MyPanel.java:19:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:19:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:19:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:19:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:20:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:20:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:20:	RedundantFieldInitializer: Avoid using redundant field initializer for 'jTable'
+src/main/java/org/example/MyPanel.java:20:	RedundantFieldInitializer: Avoid using redundant field initializer for 'jTable'
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:22:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:22:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'addColumnButton' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'addColumnButton' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'addRowButton' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'addRowButton' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'load' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'load' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'removeColumnButton' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'removeColumnButton' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'removeRowButton' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'removeRowButton' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'save' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	ImmutableField: Private field 'save' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:22:	LongVariable: Avoid excessively long variable names like removeColumnButton
+src/main/java/org/example/MyPanel.java:22:	LongVariable: Avoid excessively long variable names like removeColumnButton
+src/main/java/org/example/MyPanel.java:22:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/main/java/org/example/MyPanel.java:22:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'addColumnButton' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'addColumnButton' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'addRowButton' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'addRowButton' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'load' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'load' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'removeColumnButton' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'removeColumnButton' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'removeRowButton' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'removeRowButton' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'save' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:22:	SingularField: Perhaps 'save' could be replaced by a local variable.
+src/main/java/org/example/MyPanel.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/MyPanel.java:24:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:24:	CommentRequired: Field comments are required
+src/main/java/org/example/MyPanel.java:24:	ImmutableField: Private field 'addColumnName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:24:	ImmutableField: Private field 'addColumnName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:24:	ImmutableField: Private field 'removeColumnName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:24:	ImmutableField: Private field 'removeColumnName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/MyPanel.java:24:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/main/java/org/example/MyPanel.java:24:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/main/java/org/example/MyPanel.java:26:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/main/java/org/example/MyPanel.java:26:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/main/java/org/example/MyPanel.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/MyPanel.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/MyPanel.java:26:	ExcessiveMethodLength: Avoid really long methods.
+src/main/java/org/example/MyPanel.java:26:	ExcessiveMethodLength: Avoid really long methods.
+src/main/java/org/example/MyPanel.java:37:	LocalVariableCouldBeFinal: Local variable 'header1' could be declared final
+src/main/java/org/example/MyPanel.java:37:	LocalVariableCouldBeFinal: Local variable 'header1' could be declared final
+src/main/java/org/example/MyPanel.java:49:	LocalVariableCouldBeFinal: Local variable 'header2' could be declared final
+src/main/java/org/example/MyPanel.java:49:	LocalVariableCouldBeFinal: Local variable 'header2' could be declared final
+src/main/java/org/example/MyPanel.java:59:	LocalVariableCouldBeFinal: Local variable 'headers' could be declared final
+src/main/java/org/example/MyPanel.java:59:	LocalVariableCouldBeFinal: Local variable 'headers' could be declared final
+src/main/java/org/example/MyPanel.java:60:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/org/example/MyPanel.java:60:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/org/example/MyPanel.java:81:	LocalVariableCouldBeFinal: Local variable 'fileChooser' could be declared final
+src/main/java/org/example/MyPanel.java:81:	LocalVariableCouldBeFinal: Local variable 'fileChooser' could be declared final
+src/main/java/org/example/MyPanel.java:84:	LocalVariableCouldBeFinal: Local variable 'filter' could be declared final
+src/main/java/org/example/MyPanel.java:84:	LocalVariableCouldBeFinal: Local variable 'filter' could be declared final
+src/main/java/org/example/MyPanel.java:86:	LocalVariableCouldBeFinal: Local variable 'returnValue' could be declared final
+src/main/java/org/example/MyPanel.java:86:	LocalVariableCouldBeFinal: Local variable 'returnValue' could be declared final
+src/main/java/org/example/MyPanel.java:89:	LocalVariableCouldBeFinal: Local variable 'filePath' could be declared final
+src/main/java/org/example/MyPanel.java:89:	LocalVariableCouldBeFinal: Local variable 'filePath' could be declared final
+src/main/java/org/example/MyPanel.java:103:	LocalVariableCouldBeFinal: Local variable 'fileChooser' could be declared final
+src/main/java/org/example/MyPanel.java:103:	LocalVariableCouldBeFinal: Local variable 'fileChooser' could be declared final
+src/main/java/org/example/MyPanel.java:105:	LocalVariableCouldBeFinal: Local variable 'userSelection' could be declared final
+src/main/java/org/example/MyPanel.java:105:	LocalVariableCouldBeFinal: Local variable 'userSelection' could be declared final
+src/main/java/org/example/MyPanel.java:110:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/org/example/MyPanel.java:110:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/org/example/MyPanel.java:111:	ControlStatementBraces: This statement should have braces
+src/main/java/org/example/MyPanel.java:111:	ControlStatementBraces: This statement should have braces
+src/main/java/org/example/MyPanel.java:144:	LocalVariableCouldBeFinal: Local variable 'columnNames' could be declared final
+src/main/java/org/example/MyPanel.java:144:	LocalVariableCouldBeFinal: Local variable 'columnNames' could be declared final
+src/main/java/org/example/MyPanel.java:145:	LocalVariableCouldBeFinal: Local variable 'headers' could be declared final
+src/main/java/org/example/MyPanel.java:145:	LocalVariableCouldBeFinal: Local variable 'headers' could be declared final
+src/main/java/org/example/MyPanel.java:147:	LocalVariableCouldBeFinal: Local variable 'rows' could be declared final
+src/main/java/org/example/MyPanel.java:147:	LocalVariableCouldBeFinal: Local variable 'rows' could be declared final
+src/main/java/org/example/MyPanel.java:172:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/MyPanel.java:172:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/MyPanel.java:176:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/MyPanel.java:176:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/MyPanel.java:176:	MethodArgumentCouldBeFinal: Parameter 'tables' is not assigned and could be declared final
+src/main/java/org/example/MyPanel.java:176:	MethodArgumentCouldBeFinal: Parameter 'tables' is not assigned and could be declared final
+src/main/java/org/example/Row.java:3:	UnusedImports: Avoid unused imports such as 'java.util.ArrayList'
+src/main/java/org/example/Row.java:3:	UnusedImports: Avoid unused imports such as 'java.util.ArrayList'
+src/main/java/org/example/Row.java:8:	CommentRequired: Class comments are required
+src/main/java/org/example/Row.java:8:	CommentRequired: Class comments are required
+src/main/java/org/example/Row.java:8:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/org/example/Row.java:8:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/org/example/Row.java:8:	ShortClassName: Avoid short class names like Row
+src/main/java/org/example/Row.java:8:	ShortClassName: Avoid short class names like Row
+src/main/java/org/example/Row.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/Row.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/Row.java:10:	CommentRequired: Field comments are required
+src/main/java/org/example/Row.java:10:	CommentRequired: Field comments are required
+src/main/java/org/example/Row.java:10:	ImmutableField: Private field 'valueMap' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/Row.java:10:	ImmutableField: Private field 'valueMap' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/example/Row.java:10:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/org/example/Row.java:10:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/org/example/Row.java:12:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Row constructor if you want a default access modifier
+src/main/java/org/example/Row.java:12:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Row constructor if you want a default access modifier
+src/main/java/org/example/Row.java:12:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/org/example/Row.java:12:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/org/example/Row.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Row constructor if you want a default access modifier
+src/main/java/org/example/Row.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Row constructor if you want a default access modifier
+src/main/java/org/example/Row.java:14:	MethodArgumentCouldBeFinal: Parameter 'headers' is not assigned and could be declared final
+src/main/java/org/example/Row.java:14:	MethodArgumentCouldBeFinal: Parameter 'headers' is not assigned and could be declared final
+src/main/java/org/example/Row.java:15:	LocalVariableCouldBeFinal: Local variable 'header' could be declared final
+src/main/java/org/example/Row.java:15:	LocalVariableCouldBeFinal: Local variable 'header' could be declared final
+src/main/java/org/example/Row.java:20:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Row constructor if you want a default access modifier
+src/main/java/org/example/Row.java:20:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Row constructor if you want a default access modifier
+src/main/java/org/example/Row.java:20:	MethodArgumentCouldBeFinal: Parameter 'headers' is not assigned and could be declared final
+src/main/java/org/example/Row.java:20:	MethodArgumentCouldBeFinal: Parameter 'headers' is not assigned and could be declared final
+src/main/java/org/example/Row.java:20:	MethodArgumentCouldBeFinal: Parameter 'values' is not assigned and could be declared final
+src/main/java/org/example/Row.java:20:	MethodArgumentCouldBeFinal: Parameter 'values' is not assigned and could be declared final
+src/main/java/org/example/Row.java:20:	UnusedFormalParameter: Avoid unused constructor parameters such as 'headers'.
+src/main/java/org/example/Row.java:20:	UnusedFormalParameter: Avoid unused constructor parameters such as 'headers'.
+src/main/java/org/example/Row.java:20:	UnusedFormalParameter: Avoid unused constructor parameters such as 'values'.
+src/main/java/org/example/Row.java:20:	UnusedFormalParameter: Avoid unused constructor parameters such as 'values'.
+src/main/java/org/example/Row.java:20:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/main/java/org/example/Row.java:20:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/main/java/org/example/Row.java:25:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setValue method if you want a default access modifier
+src/main/java/org/example/Row.java:25:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setValue method if you want a default access modifier
+src/main/java/org/example/Row.java:25:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/example/Row.java:25:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/example/Row.java:25:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/Row.java:25:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/Row.java:25:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/main/java/org/example/Row.java:25:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/main/java/org/example/Row.java:29:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the removeValue method if you want a default access modifier
+src/main/java/org/example/Row.java:29:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the removeValue method if you want a default access modifier
+src/main/java/org/example/Row.java:29:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/example/Row.java:29:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/example/Row.java:29:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/Row.java:29:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/Row.java:33:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the editValue method if you want a default access modifier
+src/main/java/org/example/Row.java:33:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the editValue method if you want a default access modifier
+src/main/java/org/example/Row.java:33:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/example/Row.java:33:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/example/Row.java:33:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/Row.java:33:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/Row.java:33:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/main/java/org/example/Row.java:33:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/main/java/org/example/Row.java:37:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the getValue method if you want a default access modifier
+src/main/java/org/example/Row.java:37:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the getValue method if you want a default access modifier
+src/main/java/org/example/Row.java:37:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/example/Row.java:37:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/example/Row.java:37:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/Row.java:37:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/Row.java:41:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the containsHeader method if you want a default access modifier
+src/main/java/org/example/Row.java:41:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the containsHeader method if you want a default access modifier
+src/main/java/org/example/Row.java:41:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/example/Row.java:41:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/example/Row.java:41:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/Row.java:41:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:3:	UnusedImports: Avoid unused imports such as 'javax.swing.table.TableModel'
+src/main/java/org/example/TableData.java:3:	UnusedImports: Avoid unused imports such as 'javax.swing.table.TableModel'
+src/main/java/org/example/TableData.java:8:	AbstractNaming: Abstract classes should be named AbstractXXX
+src/main/java/org/example/TableData.java:8:	AbstractNaming: Abstract classes should be named AbstractXXX
+src/main/java/org/example/TableData.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/example/TableData.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/example/TableData.java:8:	CommentRequired: Class comments are required
+src/main/java/org/example/TableData.java:8:	CommentRequired: Class comments are required
+src/main/java/org/example/TableData.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/TableData.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/example/TableData.java:12:	CommentRequired: Field comments are required
+src/main/java/org/example/TableData.java:12:	CommentRequired: Field comments are required
+src/main/java/org/example/TableData.java:12:	LongVariable: Avoid excessively long variable names like tableModelListeners
+src/main/java/org/example/TableData.java:12:	LongVariable: Avoid excessively long variable names like tableModelListeners
+src/main/java/org/example/TableData.java:12:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:12:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:14:	CommentRequired: Field comments are required
+src/main/java/org/example/TableData.java:14:	CommentRequired: Field comments are required
+src/main/java/org/example/TableData.java:14:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:14:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:15:	CommentRequired: Field comments are required
+src/main/java/org/example/TableData.java:15:	CommentRequired: Field comments are required
+src/main/java/org/example/TableData.java:15:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:15:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:17:	CommentRequired: Field comments are required
+src/main/java/org/example/TableData.java:17:	CommentRequired: Field comments are required
+src/main/java/org/example/TableData.java:18:	CommentRequired: Field comments are required
+src/main/java/org/example/TableData.java:18:	CommentRequired: Field comments are required
+src/main/java/org/example/TableData.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/TableData.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/TableData.java:20:	MethodArgumentCouldBeFinal: Parameter 'row' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:20:	MethodArgumentCouldBeFinal: Parameter 'row' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:22:	LocalVariableCouldBeFinal: Local variable 'str' could be declared final
+src/main/java/org/example/TableData.java:22:	LocalVariableCouldBeFinal: Local variable 'str' could be declared final
+src/main/java/org/example/TableData.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/TableData.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/TableData.java:30:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:30:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:33:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/org/example/TableData.java:33:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/org/example/TableData.java:38:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/TableData.java:38:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/TableData.java:38:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:38:	MethodArgumentCouldBeFinal: Parameter 'header' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:41:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/org/example/TableData.java:41:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/org/example/TableData.java:57:	MethodArgumentCouldBeFinal: Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:57:	MethodArgumentCouldBeFinal: Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:58:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'retVal' (lines '58'-'60').
+src/main/java/org/example/TableData.java:58:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'retVal' (lines '58'-'60').
+src/main/java/org/example/TableData.java:61:	EmptyCatchBlock: Avoid empty catch blocks
+src/main/java/org/example/TableData.java:61:	EmptyCatchBlock: Avoid empty catch blocks
+src/main/java/org/example/TableData.java:68:	MethodArgumentCouldBeFinal: Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:68:	MethodArgumentCouldBeFinal: Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:74:	MethodArgumentCouldBeFinal: Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:74:	MethodArgumentCouldBeFinal: Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:74:	MethodArgumentCouldBeFinal: Parameter 'rowIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:74:	MethodArgumentCouldBeFinal: Parameter 'rowIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:75:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/org/example/TableData.java:75:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/org/example/TableData.java:76:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/org/example/TableData.java:76:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/org/example/TableData.java:80:	MethodArgumentCouldBeFinal: Parameter 'aValue' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:80:	MethodArgumentCouldBeFinal: Parameter 'aValue' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:80:	MethodArgumentCouldBeFinal: Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:80:	MethodArgumentCouldBeFinal: Parameter 'columnIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:80:	MethodArgumentCouldBeFinal: Parameter 'rowIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:80:	MethodArgumentCouldBeFinal: Parameter 'rowIndex' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:81:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/org/example/TableData.java:81:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/org/example/TableData.java:82:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/org/example/TableData.java:82:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/org/example/TableData.java:86:	MethodArgumentCouldBeFinal: Parameter 'l' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:86:	MethodArgumentCouldBeFinal: Parameter 'l' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:86:	ShortVariable: Avoid variables with short names like l
+src/main/java/org/example/TableData.java:86:	ShortVariable: Avoid variables with short names like l
+src/main/java/org/example/TableData.java:91:	MethodArgumentCouldBeFinal: Parameter 'l' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:91:	MethodArgumentCouldBeFinal: Parameter 'l' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:91:	ShortVariable: Avoid variables with short names like l
+src/main/java/org/example/TableData.java:91:	ShortVariable: Avoid variables with short names like l
+src/main/java/org/example/TableData.java:95:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:95:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:95:	MethodArgumentCouldBeFinal: Parameter 'headers' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:95:	MethodArgumentCouldBeFinal: Parameter 'headers' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:99:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:99:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:99:	MethodArgumentCouldBeFinal: Parameter 'rows' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:99:	MethodArgumentCouldBeFinal: Parameter 'rows' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:103:	MethodArgumentCouldBeFinal: Parameter 'column' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:103:	MethodArgumentCouldBeFinal: Parameter 'column' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:107:	MethodArgumentCouldBeFinal: Parameter 'row' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:107:	MethodArgumentCouldBeFinal: Parameter 'row' is not assigned and could be declared final
+src/main/java/org/example/TableData.java:119:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:119:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:123:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:123:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/main/java/org/example/TableData.java:128:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/TableData.java:128:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/TableData.java:129:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/org/example/TableData.java:129:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/org/example/TableData.java:130:	ControlStatementBraces: This statement should have braces
+src/main/java/org/example/TableData.java:130:	ControlStatementBraces: This statement should have braces
+src/main/java/org/example/Test.java:3:	CommentRequired: Class comments are required
+src/main/java/org/example/Test.java:3:	CommentRequired: Class comments are required
+src/main/java/org/example/Test.java:3:	ShortClassName: Avoid short class names like Test
+src/main/java/org/example/Test.java:3:	ShortClassName: Avoid short class names like Test
+src/main/java/org/example/Test.java:3:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/org/example/Test.java:3:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/org/example/Test.java:5:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/Test.java:5:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/example/Test.java:5:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/org/example/Test.java:5:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/test/java/org/example/AppTest.java:10:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/org/example/AppTest.java:10:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/org/example/AppTest.java:18:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/org/example/AppTest.java:18:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/org/example/AppTest.java:18:	UnnecessaryBooleanAssertion: assertTrue(true) or similar statements are unnecessary
+src/test/java/org/example/AppTest.java:18:	UnnecessaryBooleanAssertion: assertTrue(true) or similar statements are unnecessary
