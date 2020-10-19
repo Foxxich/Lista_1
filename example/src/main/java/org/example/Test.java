@@ -3,7 +3,6 @@ package org.example;
 public class Test {
  
     public static void main(String args[]){  
-        new MenuFrame();
-        //Add
+        new MenuFrame(); 
     } 
 }
